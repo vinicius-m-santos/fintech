@@ -1,0 +1,24 @@
+html {
+    min-height: 100%;
+    margin: 0;
+}
+
+body{
+    min-height: 100vh;
+    margin: 0;
+}
+
+footer {
+    position: fixed;
+    min-height: 150px;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cesta-produtos .fa-solid.fa-circle-info {
+    color: #666;
+    font-size: 1.5rem;
+}
